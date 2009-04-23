@@ -1,0 +1,6 @@
+[submodule "inc/phpcr"]
+	path = inc/phpcr
+	url = git@github.com:jackalope/phpcr.git
+[submodule "inc/jr"]
+	path = inc/jr
+	url = git@github.com:jackalope/jr_cr.git
